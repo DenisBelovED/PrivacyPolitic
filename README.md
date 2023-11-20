@@ -17,7 +17,9 @@ parties.
 Links to privacy policies of third party service providers used in the app
 
 Google Play Services    https://www.google.com/policies/privacy/
+
 AdMob                   https://support.google.com/admob/answer/6128543
+
 Yandex                  https://yandex.ru/legal/confidential/?lang=en
 
 
